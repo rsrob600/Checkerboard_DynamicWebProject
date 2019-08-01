@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+
+.container{
+	width: 800px;
+	min-height: 500px;
+	margin: 0px auto;
+	text-align: center;
+	font-family: "Comic Sans MS", Arial, Helvetica;
+}
+
+div.blue{
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	margin-bottom: -4.9px;
+	margin-left: -4.9px;
+	background-color: #3512FF;
+}
+
+div.purple{
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	margin-bottom: -4.9px;
+	margin-left: -4.9px;
+	background-color: #B32EB3;
+}
